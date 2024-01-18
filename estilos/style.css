@@ -51,6 +51,7 @@ div#imagem{
 }
 
 div > h1{
+    text-align: center;
     margin-bottom: 10px;
 }
 
@@ -58,12 +59,4 @@ div#formulario{
     padding: 10px;
     display: block;
 
-}
-
-input{
-    display: block;
-    width: 250px;
-    height: 40px;
-    border-radius: 8px;
-    margin: 10px auto 0px;
 }
